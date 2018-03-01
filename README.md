@@ -1,8 +1,8 @@
 # Reposearch
 
 ## Instructions:
-1. Create a simple application that utilizes APIs on a fully responsive and cross browser compatible web page using HTML, CSS and Javascript.
-2. from a fork of this exact same repo, send a link to your work. (if you dont have a github account, it has to be created)
+1. Create a simple application that utilizes APIs below on a fully responsive and cross browser compatible web page using HTML, CSS and Javascript. If developing for mobile (iOS / Android), please avoid developing on a webview and present your code on a native approach.
+2. fork this repo, do your code, commit and push then send a link to your work. (github account is required.)
 
 ## Functional Requirements:
 1. Users should be able to search for any public repository on github by name and display relevant information such as url, description, number of forks, number of stars and open issues.
@@ -13,13 +13,13 @@ Bonus: create a visualization chart to display the records (preferrably animated
 ## Rules/Pointers:
 - there is no time limit. you can polish the application as you see fit before submitting.
 - Any framework / libraries can be used to accomplish the task
-- completed exam should be pushed through github on a public repo 
+- completed exam should be pushed through github on a public repo (you can delete after evaluation)
 
 ## Key Factors fo consider:
 - clearly written code is a big plus
 - use best practices to write code
 - present the app in the best design possible
-- we'll be looking at how you commit code. 
+- we'll be looking at how you commit code
 
 ## References: 
 - https://api.github.com/search/repositories?q=bootstrap
